@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kosmaspoiraz
-- 👀 I’m interested in working as a software developer
-- 🌱 I’m currently practicing in C and Java Spring Boot. Also on to C++, MySQL, Python and JS(kinda)
-- 💞️ I’m looking to collaborate on any project that would look fun to me
+- 👀 I’m currently working as a software developer on Java and JS.
+- 🌱 I’m currently practicing in Java Spring Boot. Also on to C++, Python.
+- 💞️ I’m looking to collaborate on any project that would look fun to me.
 - 📫 How to reach me: via email mailto:kosmas_poiraz@yahoo.com and on discord @pook96#8530
 
 <!---
